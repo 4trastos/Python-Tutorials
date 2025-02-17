@@ -1,7 +1,3 @@
-¡Por supuesto! Aquí tienes un archivo `README.md` que funciona como un **tutorial** sobre clases, métodos, instancias y funciones en Python, basado en lo que hemos visto. Puedes copiar y pegar este contenido directamente en tu repositorio.
-
----
-
 # 🇪🇸 Tutorial de Clases, Métodos e Instancias en Python
 
 ¡Bienvenido/a a este tutorial sobre clases, métodos e instancias en Python! Aquí aprenderás los conceptos básicos de la programación orientada a objetos (POO) en Python, incluyendo cómo crear clases, definir métodos, trabajar con instancias y entender la diferencia entre funciones y métodos.
